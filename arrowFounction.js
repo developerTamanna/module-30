@@ -17,3 +17,4 @@ const addArrow = (a, b) => a +b;
 const multiArrow =(a, b)=> a*b ;
 const resultMulti = multiArrow(10, 10);
 console.log(resultMulti);
+
